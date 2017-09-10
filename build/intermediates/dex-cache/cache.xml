@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_fdc2fc247649c046bcb71d8adc02f4aeeaca093f.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_6cd869027f9a74de8f33417424c62f5e974aeeae.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_f3554cf734a9b554c0bc4a57d00697258fde619f.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_04a52a1b83a6c536cd63a9a5194be27ba877ce15.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_031fce9d401762fc0b482cea7686da68b588eda2.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_d22f76421074fc19b310431685c6f9c41d295cc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_c2654e8c729d9d38e9e76e016beb488dab25e98c.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_16d554fd20553d36121f59b22fdce057393592ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_6d0023582f4dba4f42eb117c1a1a3500195e39dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\CodesCave\AndroidStudioProjects\ConvertCGPA\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_61a590ccaf13cb06c8ac025bd8397eefae9f8087.jar" />
+    </item>
+
+</items>
